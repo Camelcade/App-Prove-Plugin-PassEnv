@@ -1,6 +1,6 @@
 # App::Prove::Plugin::PassEnv
 
-[![Build Status](https://travis-ci.org/Camelcade/App-Prove-Plugin-PassEnv.svg?branch=master)](https://travis-ci.org/Camelcade/App-Prove-Plugin-PassEnv)
+[![Testing](https://github.com/Camelcade/App-Prove-Plugin-PassEnv/actions/workflows/main.yml/badge.svg)](https://github.com/Camelcade/App-Prove-Plugin-PassEnv/actions/workflows/main.yml)
 
 A `prove` plugin to pass environment variables to your tests behind `prove`
 
